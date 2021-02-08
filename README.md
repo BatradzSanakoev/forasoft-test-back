@@ -1,6 +1,6 @@
 ForaSoft Test Task Backend
 
- Технологический стек: Node.js, Express, Socket.ignoring
+ Технологический стек: Node.js, Express, Socket.io
 
  Бекенд запускался на localhost:3000
 
